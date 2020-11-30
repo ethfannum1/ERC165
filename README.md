@@ -15,3 +15,16 @@ Each interface has an interfaceID. For ERC165 it is 0x01ffc9a7. Check the EIP fo
 
 [http://https://github.com/ethereum/EIPs/blob/master/EIPS/eip-165.md](http://https://github.com/ethereum/EIPs/blob/master/EIPS/eip-165.md)
 
+
+------------
+
+Now let's see an easy and clear example of ERC165 working.
+
+Take a look on Interfaces.sol
+
+
+------------
+
+I accept BAT Token rewards support.
+
+Use Brave Browser: best internet browser!
